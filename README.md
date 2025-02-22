@@ -51,16 +51,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" alt="chakra-ui" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" alt="chakra-ui" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" alt="tanstack query" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="tanstack query" width="40" height="40"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="40" height="40"/>
