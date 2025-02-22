@@ -60,7 +60,7 @@
     <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="tanstack query" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt="tanstack query" width="40" height="40"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="40" height="40"/>
