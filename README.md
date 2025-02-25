@@ -99,5 +99,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik-soleh&" alt="Adik-soleh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik-soleh&show_icons=true&locale=en" alt="Adik-soleh" />
 </p>
