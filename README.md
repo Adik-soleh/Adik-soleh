@@ -71,8 +71,8 @@
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="50" height="50"/>
   </a>
-  <a href="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" width="50" height="50"/>
 </a> &nbsp;
 </p>
 
