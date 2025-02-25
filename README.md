@@ -97,7 +97,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adik-soleh&show_icons=true&locale=en" alt="Adik-soleh" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adik-soleh&show_icons=true&locale=en" alt="Adik-soleh" />
-</p>
