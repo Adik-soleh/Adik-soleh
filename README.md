@@ -23,6 +23,9 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png" alt="php" width="50" height="50"/>
+  </a>
 </p>
 
 ---
