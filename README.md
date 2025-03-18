@@ -6,7 +6,7 @@
 
 ---
 
-## 🖥️ Have worked in::
+🖥️ Have worked in::
 <p> 
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -27,16 +27,15 @@
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
-<img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" width="50" height="50"/>
+<img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt="tanstack query" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="php" width="50" height="50"/>
  
 </p>
 
----
 
-## 🛠️ Version Control and Development tools used:
+🛠️Version Control and Development tools used:
 
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
@@ -48,7 +47,7 @@
 
 
 
-## Operating System familiar with:
+Operating System familiar with:
 <p>
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
