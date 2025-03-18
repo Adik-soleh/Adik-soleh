@@ -14,18 +14,14 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
@@ -50,20 +46,6 @@
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 </p>
 
-
-
-
-<p align="center">
-  <a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" alt="tanstack query" width="50" height="50"/>
-  </a> &nbsp;
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="50" height="50"/>
-  </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" width="50" height="50"/>
-</a> &nbsp;
-</p>
 
 
 ## Operating System familiar with:
