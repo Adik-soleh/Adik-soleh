@@ -17,7 +17,6 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/chakra-ui.png" alt="chakra-ui"/>
 <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
