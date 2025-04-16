@@ -22,6 +22,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
