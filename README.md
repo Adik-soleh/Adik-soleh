@@ -8,7 +8,6 @@
 
 🖥️ Have worked in::
 <p> 
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
@@ -37,6 +36,7 @@
 🛠️Version Control and Development tools used:
 
 <p>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
